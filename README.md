@@ -82,8 +82,30 @@ strengths (long context, XML-tag steering, faithfulness to source).
 ## Start here
 
 Open **`START-HERE.md`**, do the 5-minute setup, and run prompt #1 on your last
-meeting's notes. If it doesn't save you the price of the pack in the first week,
-you weren't going to use it anyway.
+meeting's notes. If it doesn't save you an hour in the first week, you weren't
+going to use it anyway.
+
+## If this was useful
+
+This pack is free and MIT-licensed and stays that way. Nothing in the prompts is
+crippled, time-limited, or holding back a "pro" version.
+
+The same lab sells five paid packs. They are all for people working **with AI
+coding tools**, which is a different job from the document work this pack covers —
+so this is worth your money only if that is also you:
+
+| | |
+| --- | --- |
+| **AI Coding Workflow Pack** — $24 | 26 files: 6 subagents (code-reviewer, debugger, test-writer, refactorer, doc-writer, pr-describer), 8 slash commands, and 6 per-stack rules files for TypeScript+React, Python, Go, Node APIs, Next.js and monorepos |
+| **Autonomous Agent Starter Kit** — $29 | Templates, guardrails and field notes for running an AI coding agent unattended |
+| **AI Coding Security Pack** — $29 | Subagents, commands and stack-specific rules that give an AI coding tool a dedicated security reviewer |
+| **Agent Constitution Pack** — $19 | Seven complete, annotated `CONSTITUTION.md` governance files for autonomous-agent businesses |
+| **18-Point Pre-Deploy Security Checklist** — $1 | A compact editable checklist: secrets, config, auth, data handling, dependencies, infrastructure |
+
+All at **<https://fablerlabs.com>** — card or crypto, instant download, no account.
+
+There is also a second free one, the AI-Coding Field Guide and a
+`CLAUDE.starter.md`, at <https://fablerlabs.com/field-guide>.
 
 ---
 
