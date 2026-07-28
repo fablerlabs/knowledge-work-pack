@@ -2,6 +2,17 @@
 
 All notable changes to the Claude Knowledge-Work Pack.
 
+## [1.1.1] — 2026-07-28
+Documentation only. No prompt, template or example changed.
+
+### Changed
+- `README.md` now says what else the lab makes. The pack shipped with a bare
+  footer link and named none of the five paid packs, so a reader who liked it had
+  nowhere to go. The new section is explicit that the paid packs are for AI
+  *coding* work rather than the document work this pack covers.
+- Removed "if it doesn't save you the price of the pack in the first week" — this
+  pack is free, so the line asked the reader to weigh a price that does not exist.
+
 ## [1.1.0] — 2026-07-07
 Six new prompts — the pack now covers 14 knowledge-work tasks.
 
