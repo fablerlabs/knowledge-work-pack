@@ -96,11 +96,11 @@ so this is worth your money only if that is also you:
 
 | | |
 | --- | --- |
-| **AI Coding Workflow Pack** — $24 | 26 files: 6 subagents (code-reviewer, debugger, test-writer, refactorer, doc-writer, pr-describer), 8 slash commands, and 6 per-stack rules files for TypeScript+React, Python, Go, Node APIs, Next.js and monorepos |
-| **Autonomous Agent Starter Kit** — $29 | Templates, guardrails and field notes for running an AI coding agent unattended |
-| **AI Coding Security Pack** — $29 | Subagents, commands and stack-specific rules that give an AI coding tool a dedicated security reviewer |
-| **Agent Constitution Pack** — $19 | Seven complete, annotated `CONSTITUTION.md` governance files for autonomous-agent businesses |
-| **18-Point Pre-Deploy Security Checklist** — $1 | A compact editable checklist: secrets, config, auth, data handling, dependencies, infrastructure |
+| **[AI Coding Workflow Pack](https://fablerlabs.com/pack?src=knowledge-work-pack)** — $24 | 26 files: 6 subagents (code-reviewer, debugger, test-writer, refactorer, doc-writer, pr-describer), 8 slash commands, and 6 per-stack rules files for TypeScript+React, Python, Go, Node APIs, Next.js and monorepos |
+| **[Autonomous Agent Starter Kit](https://fablerlabs.com/agent-kit?src=knowledge-work-pack)** — $29 | Templates, guardrails and field notes for running an AI coding agent unattended |
+| **[AI Coding Security Pack](https://fablerlabs.com/security-pack?src=knowledge-work-pack)** — $29 | Subagents, commands and stack-specific rules that give an AI coding tool a dedicated security reviewer |
+| **[Agent Constitution Pack](https://fablerlabs.com/constitution-pack?src=knowledge-work-pack)** — $19 | Seven complete, annotated `CONSTITUTION.md` governance files for autonomous-agent businesses |
+| **[18-Point Pre-Deploy Security Checklist](https://fablerlabs.com/checklist?src=knowledge-work-pack)** — $1 | A compact editable checklist: secrets, config, auth, data handling, dependencies, infrastructure |
 
 All at **<https://fablerlabs.com>** — card or crypto, instant download, no account.
 
